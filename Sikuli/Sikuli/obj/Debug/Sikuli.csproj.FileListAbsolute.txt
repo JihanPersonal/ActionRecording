@@ -7,3 +7,12 @@ c:\users\jihan\source\repos\Sikuli\Sikuli\obj\Debug\Sikuli.csproj.CoreCompileInp
 c:\users\jihan\source\repos\Sikuli\Sikuli\obj\Debug\Sikuli.csproj.CopyComplete
 c:\users\jihan\source\repos\Sikuli\Sikuli\obj\Debug\Sikuli.exe
 c:\users\jihan\source\repos\Sikuli\Sikuli\obj\Debug\Sikuli.pdb
+D:\Jihan\ActionRecord\ActionRecording\Sikuli\Sikuli\bin\Debug\Sikuli.exe.config
+D:\Jihan\ActionRecord\ActionRecording\Sikuli\Sikuli\bin\Debug\Sikuli.exe
+D:\Jihan\ActionRecord\ActionRecording\Sikuli\Sikuli\bin\Debug\Sikuli.pdb
+D:\Jihan\ActionRecord\ActionRecording\Sikuli\Sikuli\bin\Debug\SikuliSharp.dll
+D:\Jihan\ActionRecord\ActionRecording\Sikuli\Sikuli\obj\Debug\Sikuli.csprojAssemblyReference.cache
+D:\Jihan\ActionRecord\ActionRecording\Sikuli\Sikuli\obj\Debug\Sikuli.csproj.CoreCompileInputs.cache
+D:\Jihan\ActionRecord\ActionRecording\Sikuli\Sikuli\obj\Debug\Sikuli.csproj.CopyComplete
+D:\Jihan\ActionRecord\ActionRecording\Sikuli\Sikuli\obj\Debug\Sikuli.exe
+D:\Jihan\ActionRecord\ActionRecording\Sikuli\Sikuli\obj\Debug\Sikuli.pdb

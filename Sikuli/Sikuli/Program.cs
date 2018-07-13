@@ -11,27 +11,25 @@ namespace SikuliTest
     {
         static void Main(string[] args)
         {
-            string folderpath = @"C:\Users\Jihan\source\repos\NikeAuto\NikeAuto\Steps\Step1\";
-            string path = folderpath + "Chrome.PNG";
+            string folderpath = @"..\..\Steps\";
+            string path = folderpath + @"Step1\Chrome.PNG";
             SikuliRunner.InitializeSession();
             IPattern ima = Patterns.FromFile(path);
             SikuliRunner.Click(ima);
 
-            string path2 = folderpath + "Chromeaddress.PNG";
+            string path2 = folderpath + @"Step1\Chromeaddress.PNG";
             var ima2 = Patterns.FromFile(path2);
             SikuliRunner.Wait(ima2);
   
             SikuliRunner.Type("https://www.nike.com/launch/");
             SikuliRunner.PressKey(Keys.Enter);
 
-            folderpath = @"C:\Users\Jihan\source\repos\NikeAuto\NikeAuto\Steps\Step2\";
-            path = folderpath + "Instock.PNG";
+            path = folderpath + @"Step2\Instock.PNG";
             ima = Patterns.FromFile(path);
             SikuliRunner.Wait(ima);
             SikuliRunner.Click(ima);
 
-            folderpath = @"C:\Users\Jihan\source\repos\NikeAuto\NikeAuto\Steps\Step3\";
-            path = folderpath + "Product1.PNG";
+            path = folderpath + @"Step3\Product1.PNG";
             ima = Patterns.FromFile(path);
             if (SikuliRunner.SearchDown(ima, 10.0))
             {
