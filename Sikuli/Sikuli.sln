@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sikuli", "Sikuli\Sikuli.csproj", "{51EA93F8-2F80-4AFD-8568-2788A51BC4DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51EA93F8-2F80-4AFD-8568-2788A51BC4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EA93F8-2F80-4AFD-8568-2788A51BC4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51EA93F8-2F80-4AFD-8568-2788A51BC4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51EA93F8-2F80-4AFD-8568-2788A51BC4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D3A414A-5E84-4385-80B2-ED0F81CD9613}
+	EndGlobalSection
+EndGlobal
